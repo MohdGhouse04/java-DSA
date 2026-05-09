@@ -2,14 +2,14 @@
 
 public class pattern {
   public static void main(String[] args) {
-    //pattern1(4);
-    //pattern2(4);
-    //pattern3(4);
-    //pattern4(4);
-    //pattern5(5);
-    //pattern28(5);
-    //pattern30(5);
-    //pattern17(5);
+    pattern1(4);
+    pattern2(4);
+    pattern3(4);
+    pattern4(4);
+    pattern5(5);
+    pattern28(5);
+    pattern30(5);
+    pattern17(5);
     pattern31(4);
 
   }  
